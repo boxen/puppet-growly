@@ -1,4 +1,7 @@
 # This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+class growly {
+  package {'growly':
+    source   => 'http://www.growlybird.com/downloads/notes_1214.dmg',
+    provider => 'appdmg'
+  }
 }
