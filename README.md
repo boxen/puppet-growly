@@ -3,7 +3,7 @@
 [Growly](http://growlybird.com/notes/index.html) for OSX. A Office
 OneNote like tool.
 
-[![Build Status](https://travis-ci.org/paulcollinsiii/puppet-growly.png?branch=master)](https://travis-ci.org/paulcollinsiii/puppet-growly)
+[![Build Status](https://travis-ci.org/boxen/puppet-growly.png?branch=master)](https://travis-ci.org/boxen/puppet-growly)
 
 ## Usage
 
