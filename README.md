@@ -1,3 +1,8 @@
+# DEPRECATED
+
+GrowlyBird no longer provides the original DMG this module is based on. Using this module is just going to give you errors at this point. If you were using this module, please remove it from your setup.
+
+
 # Growly Puppet Module for Boxen
 
 [Growly](http://growlybird.com/notes/index.html) for OSX. A Office
